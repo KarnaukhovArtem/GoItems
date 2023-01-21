@@ -1,0 +1,23 @@
+#1
+input("ім'я ")
+input("прізвище ")
+input("вік ")
+input("стать ")
+input("номер телефону ")
+#2 Тут помилка трошки тут не зрозумів
+a= print(id(input ('ввести 1-ше число ')))
+b= input('ввести 2-ге число ')
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+#3
+string_1=('abcdefghijklmnopqrstu')
+print(string_1)
+print(string_1 [0 ] )
+print(string_1 [9 ] )
+print(string_1 [-1 ] )
+print(string_1 [5:-1 ] )
+print(string_1 [-5:-2 ] )
+print(string_1 [::2 ] )
+print(string_1 [::-1] )
